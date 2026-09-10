@@ -11,7 +11,7 @@
 ## 1. Trip Overview & Travel Roster
 
 - **Travel Dates:** Saturday, 26 December 2026 – Saturday, 2 January 2027 (7 Nights / 8 Days)
-- **Base of Operations:** 27A Michael Street, North Ryde NSW 2113 (Entire House Airbnb, Fully Confirmed: `9,440,000 KRW` / ~$10,500 AUD)
+- **Base of Operations:** 27A Michael Street, North Ryde NSW 2113 (Entire House Airbnb, Fully Confirmed: `9,440,000 KRW` / ~$9,760 AUD @ 967)
 - **Golfers (4-Ball Team):**
   - **Han Jaehoon** (`mis157@naver.com` | WHS ID: `20260005613` | Handicap Index: `9.3` | Low H.I.: `8.0` | (T2) KGA E-Club | Certificate Verified & Archived)
   - **Lim Cheonsoo** (WHS ID / Certificate pending collection)
@@ -39,14 +39,14 @@
 
 ## 3. Financial Summary & Total Budget Breakdown
 
-| Category | Total Amount (AUD) | Approximate Total (KRW @ 900) | Per Golfer (AUD) | Per Golfer (KRW) |
+| Category | Total Amount (AUD) | Approximate Total (KRW @ 967) | Per Golfer (AUD) | Per Golfer (KRW) |
 | :--- | :---: | :---: | :---: | :---: |
-| **Day 1: Muirfield Golf Club ($70 green + $25 cart)** | **$380.00** | ~342,000 KRW | $95.00 | ~85,500 KRW |
-| **Confirmed & Paid (NSW Golf Club)** | **$4,110.38** | ~3,699,000 KRW | $1,027.60 | ~925,000 KRW |
-| **Confirmed Quote (Magenta Shores)** | **$920.00** | ~828,000 KRW | $230.00 | ~207,000 KRW |
-| **Championship Public Rounds (4 Courses)** | **$2,180.00** | ~1,962,000 KRW | $545.00 | ~490,500 KRW |
-| **Total 7-Round Green Fee Budget** | **`$7,590.38 AUD`** | **`~6,831,000 KRW`** | **`$1,897.60 AUD`** | **`~1,707,750 KRW`** |
-| **Net Direct Savings vs Initial Baseline ($9,760.38)** | **`-$2,170.00 AUD`** | **`~-1,953,000 KRW`** | **`-$542.50 AUD`** | **`~-488,250 KRW`** |
+| **Day 1: Muirfield Golf Club ($70 green + $25 cart)** | **$380.00** | ~367,500 KRW | $95.00 | ~91,900 KRW |
+| **Confirmed & Paid (NSW Golf Club)** | **$4,110.38** | ~3,975,000 KRW | $1,027.60 | ~994,000 KRW |
+| **Confirmed Quote (Magenta Shores)** | **$920.00** | ~889,500 KRW | $230.00 | ~222,500 KRW |
+| **Championship Public Rounds (4 Courses)** | **$2,180.00** | ~2,108,500 KRW | $545.00 | ~527,000 KRW |
+| **Total 7-Round Green Fee Budget** | **`$7,590.38 AUD`** | **`~7,341,000 KRW`** | **`$1,897.60 AUD`** | **`~1,835,000 KRW`** |
+| **Net Direct Savings vs Initial Baseline ($9,760.38)** | **`-$2,170.00 AUD`** | **`~-2,098,500 KRW`** | **`-$542.50 AUD`** | **`~-524,500 KRW`** |
 
 ---
 
