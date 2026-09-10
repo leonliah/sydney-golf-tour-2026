@@ -2,7 +2,8 @@
 
 > **원문 출처 (SSOT):** [Sydney Golf & Tour 2026-2027 Master Itinerary (V3.0 Smart-Luxury Google Doc)](https://docs.google.com/document/d/1-n3gonr1VTphtwbnRMrh_3xuUNk0zVgABavcoluEM4s/edit?tab=t.0)  
 > **마스터 구글 문서 ID:** `1-n3gonr1VTphtwbnRMrh_3xuUNk0zVgABavcoluEM4s`  
-> **GitHub 영문 마스터:** [docs/MASTER_ITINERARY.md](MASTER_ITINERARY.md)  
+> **GitHub 영문 마스터:** [docs/MASTER_ITINERARY.md](https://github.com/leonliah/sydney-golf-tour-2026/blob/main/docs/MASTER_ITINERARY.md)  
+> **GitHub 한글 마스터:** [docs/MASTER_ITINERARY_KR.md](https://github.com/leonliah/sydney-golf-tour-2026/blob/main/docs/MASTER_ITINERARY_KR.md)  
 > **GitHub 프로젝트 저장소:** [https://github.com/leonliah/sydney-golf-tour-2026](https://github.com/leonliah/sydney-golf-tour-2026)  
 
 ---
@@ -10,7 +11,6 @@
 ## 1. ✈️ 투어 개요 및 참가자 명단
 
 - **투어 기간:** 2026년 12월 26일 (토) ~ 2027년 1월 2일 (토) [7박 8일]
-- **현지 호스트 & 총괄 디렉터:** 김원규 (Won Gue Kim / North Rocks, NSW)
 - **메인 숙소 (본부):** `27A Michael Street, North Ryde NSW 2113` (단독주택 에어비앤비 전체 대여, **예약 및 결제 완료: 9,440,000원 / 약 $10,500 AUD**)
 - **골퍼 명단 (4인 1팀):**
   - **한재훈** (`mis157@naver.com` | WHS ID: `20260005613` | 핸디캡 인덱스: `9.3` | 최저 H.I.: `8.0` | (T2) 대한골프협회 KGA E-Club | 인증 완료 & 보관)
@@ -30,7 +30,7 @@
 | **Day 1**<br>12월 26일 (토) | **Muirfield Golf Club**<br>*(North Rocks, NSW)* | 클래식 파크랜드 (몸풀기) | `13:30`<br>(트와일라잇) | **$95.00**<br>(그린피 $70 + 카트 $25) | **$380.00**<br>(그린피 $280 + 카트 $100) | 🟢 **공식 요금 확인** | 2026년 7월 1일 기준 공식 요금 확정. 12월 중순 프로샵 유선 확인 (`(02) 9871 7940`). |
 | **Day 2**<br>12월 27일 (일) | **Stonecutters Ridge GC**<br>*(Western Sydney)* | **그렉 노먼 & 밥 해리슨**<br>(Slope 138, NSW 오픈 개최지) | `07:30–08:30` | **$135.00**<br>(전동카트 포함) | **$540.00** | 🟢 **1순위 선정** | **2026년 12월 13일 (일)** 예약 오픈 (14일 전, `(02) 9627 7081`). |
 | **Day 3**<br>12월 28일 (월) | **Magenta Shores Golf & CC**<br>*(Central Coast Links)* | 로스 왓슨<br>(호주 Top 35 링크스, Slope 140) | `07:30 AM` | **$230.00**<br>(그린피 $200 + 카트 $30) | **$920.00** | 🟢 **가예약 확보** | KGA 회원 ID 3개 회신 및 $920 결제 진행 (`(02) 4316 5600 #1`). |
-| **Day 4**<br>12월 29일 (화) | **New South Wales Golf Club**<br>*(World Top 100 Links)* | **알리스터 매켄지 박사**<br>(세계 랭킹 33위 / 호주 5위) | `11:09 AM` | **$1,027.60** | **$4,110.38** | 🟢 **100% 완납 & 확정** | 예약 번호: `NSW-53ZR560E` (전액 결제 완료). |
+| **Day 4**<br>12월 29일 (화) | **New South Wales Golf Club**<br>*(World Top 100 Links)* | **알리스터 매켄지 박사**<br>(세계 랭킹 33위 / 호주 5위) | `11:09 AM` | **$1,027.60** | **$4,110.38** | 🟢 **100% 완납 & 확정** | 예약 번호: `NSW-53ZR560E` (전동카트 이용 / 전액 결제 완료). |
 | **Day 5**<br>12월 30일 (수) | **Riverside Oaks (Gangurru)**<br>*(Hawkesbury River)* | 챔피언십 리조트 코스<br>(NSW 오픈 개최지) | `07:00–08:00` | **~$130.00**<br>(전동카트 포함) | **~$520.00** | 🎯 타겟 리조트 요금 | 프로샵 이메일 답변 모니터링 및 예약. |
 | **Day 6**<br>12월 31일 (목) | **The Coast Golf Club**<br>*(Little Bay Cliff Links)* | 오션 클리프 정통 링크스 | `07:00–08:00` | **~$135.00**<br>(전동카트 포함) | **~$540.00** | 🎯 타겟 7일 전 예약 | **2026년 12월 24일 (목)** 온라인 예약 오픈 (7일 전, 비-AMEX 카드 사용). |
 | **Day 7**<br>01월 01일 (금) | **Twin Creeks Golf & CC**<br>*(Luddenham Championship)* | **그레이엄 마쉬**<br>(Slope 136, NSW 오픈 개최지) | `07:30–08:30` | **$145.00**<br>(전동카트 포함) | **$580.00** | 🟢 **1순위 선정** | **2026년 12월 16일 (수) 05:00 AM** 예약 오픈 (`(02) 9670 8888`). |
@@ -67,10 +67,10 @@
 ### 3단계: 투어 전 호스트 준비 사항
 - [ ] **9. 차량 배차:** 4인의 골프백(항공커버 포함)과 캐리어가 모두 실릴 수 있는 7~8인승 투어 차량 점검.
 - [ ] **10. 자외선 & 혹서기 대비 용품:** SPF 50+ 자외선 차단제, 전해질 분말(이온음료), 쿨링 아이스 타월, 챙 넓은 모자 구비.
-- [ ] **11. NSW GC 도보 라운드 준비:** Day 4 명문 링크스(카트 불가) 도보 라운드를 위한 경량 스탠드백 또는 풀 버기 점검.
+- [ ] **11. NSW GC 전동카트 준비:** Day 4 NSW Golf Club 전동카트 배정 및 플레이 준비 점검.
 
 ### 4단계: 현지 투어 진행 (2026년 12월 26일 ~ 2027년 1월 2일)
 - [ ] **12. 12월 26일 (토) 08:20 AM:** 시드니 공항 T1 국제선 입국 픽업 (OZ601) -> 노스 라이드 숙소 체크인 -> 머필드 GC 몸풀기 18홀 라운드.
 - [ ] **13. 12월 28일 (월) 05:30 AM:** 센트럴 코스트 M1 고속도로 연말 정체 회피를 위해 숙소에서 05:30 정시 출발.
-- [ ] **14. 12월 31일 (목):** 더 코스트 GC 오전 라운드 -> 오후 휴식 -> 김원규 자택에서 연말 카운트다운 바비큐 파티.
+- [ ] **14. 12월 31일 (목):** 더 코스트 GC 오전 라운드 -> 오후 휴식 -> 연말 카운트다운 바비큐 파티.
 - [ ] **15. 1월 2일 (토) 06:45 AM:** 노스 라이드 숙소 체크아웃 -> 07:30 AM 시드니 공항 T1 샌딩 (OZ602 탑승).
