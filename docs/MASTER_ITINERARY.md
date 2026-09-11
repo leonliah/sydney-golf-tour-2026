@@ -13,10 +13,10 @@
 - **Travel Dates:** Saturday, 26 December 2026 – Saturday, 2 January 2027 (7 Nights / 8 Days)
 - **Base of Operations:** 27A Michael Street, North Ryde NSW 2113 (Entire House Airbnb, Fully Confirmed: `9,440,000 KRW` / ~$9,760 AUD @ 967)
 - **Golfers (4-Ball Team):**
-  - **Han Jaehoon** (`mis157@naver.com` | WHS ID: `20260005613` | Handicap Index: `9.3` | Low H.I.: `8.0` | (T2) KGA E-Club | Certificate Verified & Archived)
-  - **Lim Cheonsoo** (WHS ID / Certificate pending collection)
-  - **Kim Jaechun** (WHS ID / Certificate pending collection)
-  - **Yang Chunkeum** (WHS ID / Certificate pending collection)
+  - **Han Jaehoon** (`mis157@naver.com` | WHS ID: `20260005613` | Handicap Index: `9.3` | Low H.I.: `8.0` | (T2) KGA E-Club | Certificate Verified & Archived ✅)
+  - **Lim Cheonsoo** (WHS ID: `20260030682` | Handicap Index: `1.0` | (T2) KGA E-Club | Certificate Verified & Archived ✅)
+  - **Kim Jaechun** (WHS ID: `20260030716` | Handicap Index: `3.2` | (T2) KGA E-Club | Certificate Verified & Archived ✅)
+  - **Yang Chunkeum** (WHS ID: `20260030741` | Handicap Index: `1.9` | (T2) KGA E-Club | Certificate Verified & Archived ✅)
 - **International Flights (Asiana Airlines):**
   - **Inbound (OZ601):** Fri 25 Dec 2026 20:00 (ICN) -> Sat 26 Dec 2026 08:20 (SYD T1) [Seats: 21G, 21J, 21A, 21D]
   - **Outbound (OZ602):** Sat 2 Jan 2027 10:20 (SYD T1) -> Sat 2 Jan 2027 19:00 (ICN) [Seats: 17D, 17J, 19J, 17G]
@@ -53,7 +53,7 @@
 ## 4. Master Chronological TODO Checklist
 
 ### Phase 1: Immediate Actions (September 2026)
-- [ ] **1. Collect KGA Golf IDs:** Obtain membership numbers for Lim Cheonsoo, Kim Jaechun, and Yang Chunkeum.
+- [x] **1. Collect KGA Golf IDs:** Collected & verified official certificates for all golfers (Han Jaehoon: 9.3, Lim Cheonsoo: 1.0, Yang Chunkeum: 1.9, Kim Jaechun: 3.2) ✅.
 - [ ] **2. Confirm Magenta Shores Hold:** Reply to Alicia (`golfbookings@magentagolf.com.au`) with player IDs for Mon 28 Dec 07:30 AM.
 - [ ] **3. Settle Magenta Shores Fee:** Process payment of $920.00 AUD via phone (`(02) 4316 5600 #1`).
 - [ ] **4. Release Terrey Hills Slot:** Send polite notice to Ryan Bernard releasing invoice `WKIM001`.
