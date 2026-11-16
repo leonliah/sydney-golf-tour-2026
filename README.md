@@ -5,6 +5,7 @@
 > **GitHub Gist (Formatted View):** [https://gist.github.com/leonliah/770842db1c3fbcad66837d7649941f6f](https://gist.github.com/leonliah/770842db1c3fbcad66837d7649941f6f)  
 > **GitHub Korean Master:** [docs/MASTER_ITINERARY_KR.md](docs/MASTER_ITINERARY_KR.md)  
 > **Printable 1-Page Club Check-In & Handicap Sheet:** [Markdown](docs/CLUB_CHECKIN_SHEET.md) | [A4 Print HTML](docs/CLUB_CHECKIN_SHEET.html)  
+> **1-Page Master Schedule & Dining Playbook:** [One-Page Schedule](docs/ONEPAGE_SCHEDULE.md) | [Marriott Dining Playbook (Club Marriott -20% & Parking)](docs/marriott_dining_playbook.md) | [Official Menu Archive](docs/menus/)  
 > **Confirmations & Advisory:** [NSW GC Confirmation](docs/confirmations/NSW_Golf_Confirmation_NSW-53ZR560E.jpg) | [Advisor Report](docs/advisor_recommendations.md)  
 > **GitHub Project Repository:** [https://github.com/leonliah/sydney-golf-tour-2026](https://github.com/leonliah/sydney-golf-tour-2026)  
 
@@ -78,7 +79,7 @@
 
 ### Phase 3: Pre-Trip Preparation
 - [ ] **10. MiClub & Cards Staging:** Verify existing MiClub logins for Long Reef (`8 Sep 2026`) & Stonecutters (`9 Sep 2026`), pre-register on Riverside Oaks / Twin Creeks / The Coast / St. Michael's, and stage 2 active Visa/MC cards.
-- [ ] **11. Vehicle Logistics:** Confirm rental is strictly an **8-seat `2-3-3` bench** layout (prefer **Kia Carnival** / **Hyundai Staria**, NOT 7-seat `2-2-3` captain's chairs; 3rd row folded flat) for 5 pax + 4 golf travel bags + 4 large suitcases + active e-Tag/Linkt.
+- [x] **11. Vehicle Logistics:** Locked **Kia Carnival (`1.78m` height, 8-seat `2-3-3` bench)** for 5 pax + 4 golf travel bags + 4 large suitcases + active e-Tag/Linkt (fits Pier Dining/Watsons Bay `1.95m` and Sheraton Grand Sydney Hyde Park `1.90m` car parks).
 - [ ] **12. Sun, Heat & Biosecurity Defense:** Scrub golf shoe soles clean before ICN departure (fast-tracks SYD T1 biosecurity); stock SPF 50+ sunscreen, electrolyte powder packs, ice towels, and wide-brim UV hats.
 - [ ] **13. NSW GC Cart Preparation:** Verify `NSW-53ZR560E` receipt unconditionally guarantees **2 motorized carts** (no medical-certificate restriction); confirm 2 motorized carts in writing on all public holiday bookings.
 
