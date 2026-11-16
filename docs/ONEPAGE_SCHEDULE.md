@@ -22,7 +22,7 @@
 
 | Day / Date | Course (Role) | Tee Time | Est. / 4-Ball | Status | Booking Window, Channel & Key Notes |
 | :--- | :--- | :---: | :---: | :---: | :--- |
-| **Day 1 (1st)** Sat 26 Dec *(PH)* | **Long Reef GC** *(Ocean Links)* | `14:00–14:15` | `$500` | 🟡 Inquiry Sent | **Sat 28 Nov** (28d MiClub `00:01` or `06:30–07:00 AEDT`; `(02) 9982 2943`) |
+| **Day 1 (1st)** Sat 26 Dec *(PH)* | **Long Reef GC** *(Ocean Links)* | `14:00–14:15` | `$500` | ✅ Replied (`Opens 28 Nov`) | **Sat 28 Nov** (`00:01`/`06:30–07:00 AEDT`): [MiClub](https://longreef.miclub.com.au/guests/bookings/ViewPublicCalendar.msp?booking_resource_id=3000000) (**prepaid** + online carts; `(02) 9982 2943`) |
 | **Day 1 (Backup)** Sat 26 Dec *(PH)* | **Mona Vale GC** *(Seaside)* | `14:00–15:00` | `$500` | 🟠 Backup | Check **Sat 12 Dec** (14d) / `mvgc.com.au` / `(02) 9999 4266` (`$95 + $30` cart) |
 | **Day 2 (1st)** Sun 27 Dec | **Stonecutters Ridge** *(Norman)* | `12:00–12:30` | `$420–$540` | 🟡 Inquiry Sent | Check **Sun 13 Dec** (14d); leftovers **Mon 21 Dec @ 09:30** (`(02) 9627 1816`) |
 | **Day 2 (Backup)** Sun 27 Dec | **St. Michael's GC** *(Top 50 Links)* | `12:00+` PM | `$680–$1,100` | 🟠 Opens 19 Dec | **Sat 19 Dec @ 16:00 AEDT** sharp (8d MiClub / `(02) 9326 8000`) |
