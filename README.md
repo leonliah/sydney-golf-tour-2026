@@ -4,6 +4,8 @@
 > **Master Google Doc ID:** `1-n3gonr1VTphtwbnRMrh_3xuUNk0zVgABavcoluEM4s`  
 > **GitHub Gist (Formatted View):** [https://gist.github.com/leonliah/770842db1c3fbcad66837d7649941f6f](https://gist.github.com/leonliah/770842db1c3fbcad66837d7649941f6f)  
 > **GitHub Korean Master:** [docs/MASTER_ITINERARY_KR.md](docs/MASTER_ITINERARY_KR.md)  
+> **Printable 1-Page Club Check-In & Handicap Sheet:** [Markdown](docs/CLUB_CHECKIN_SHEET.md) | [A4 Print HTML](docs/CLUB_CHECKIN_SHEET.html)  
+> **Confirmations & Advisory:** [NSW GC Confirmation](docs/confirmations/NSW_Golf_Confirmation_NSW-53ZR560E.jpg) | [Advisor Report](docs/advisor_recommendations.md)  
 > **GitHub Project Repository:** [https://github.com/leonliah/sydney-golf-tour-2026](https://github.com/leonliah/sydney-golf-tour-2026)  
 
 ---
