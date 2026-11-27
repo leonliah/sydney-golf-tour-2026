@@ -23,7 +23,6 @@
 | Day / Date | Course (Role) | Tee Time | Est. / 4-Ball | Status | Booking Window, Channel & Evening Plan |
 | :--- | :--- | :---: | :---: | :---: | :--- |
 | **Day 1** Sat 26 Dec *(PH)* | **Long Reef GC** *(Ocean Links)* | **`13:44`** | **`$580.00`** | 🟢 **PAID** | Ref `ch_3UgW2BHtuHAdZzrE1qMoh5YF` (`28 Nov`, arrive `13:24`, `(02) 9982 2943`). **Dinner (`~20:00`):** **Baulkham Hills Sports Club** (*Mike's Grill*, kitchen `21:00`) / Backup: **The Governor Hotel** (`21:30`). |
-| **Day 1 (Backups)** Sat 26 Dec *(PH)* | **Mona Vale GC** (`15:30+`) / **Wakehurst GC** (`13:00+`) | `14:00–15:30+` | `$418–$500` | 🟠 Backups | Mona Vale Sat social opens **`15:30+`** (`(02) 9999 4266`). Wakehurst social **`13:00+`** online + call `(02) 9948 6126` for 2 carts (`$55/cart`). |
 | **Day 2 (1st)** Sun 27 Dec | **Stonecutters Ridge** *(Norman)* | `12:00–12:30` | `$420–$540` | 🟡 Replied (`19 Nov`) | Adam Kelleher (`golf@srgc.net.au`) confirmed manual `Competition Bookings` **5d out (`Tue 22 Dec`)**; also check MiClub (`13 Dec`) & comp leftovers **Mon 21 Dec @ 09:30** (`(02) 9627 1816`). |
 | **Day 2 (Backup)** Sun 27 Dec | **St. Michael's GC** *(Top 50 Links)* | `12:00+` PM | `$680–$1,100` | 🟠 Opens 19 Dec | **Sat 19 Dec @ 16:00 AEDT** sharp (8d MiClub / `(02) 9326 8000`). |
 | **Day 3** Mon 28 Dec *(PH)* | **Magenta Shores G&CC** *(Links)* | **`07:30 AM`** | **`$920.00`** | 🟢 **PAID** | Inv `WPAHYQBR-0001` \| Rcpt `2637-6526`. Depart North Ryde **`05:15 AM`** (Wyong M1 `06:00`). **Dinner (`18:30`):** **Eastwood** (K-BBQ/Chinese/Vietnamese) or Airbnb BBQ. |

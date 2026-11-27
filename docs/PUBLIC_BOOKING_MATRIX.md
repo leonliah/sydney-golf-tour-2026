@@ -92,3 +92,16 @@
 | **10** | **Wed 23 Dec @ `16:00`** | `3.2`, `2.6` | Day 6 backup **St. Michael's Thu Open Comp** (confirm KGA WHS entry before `16:00`). |
 | **11** | **Thu 24 Dec** (`07:00` / `16:00`) | **`3.6`**, `4.2` | **STRIKE #4 (Day 6 NYE):** Book **`3.6` The Coast (`07:00–08:00`, Non-AMEX)** + 2 carts. If sold out at `07:00`, run **Tier 2 sweep at `17:30–19:00 AEDT`**. |
 | **12** | **Fri 25 Dec** (`07:00`) | `4.6` | Final fallback for Day 7 if still open: **The Coast** (Christmas Day online release). |
+
+---
+
+## 4. Secondary Backup Pool (Tier-2 Overflow Clubs for Days 2, 5, 6, 7)
+
+If any primary 7-club window sells out or lacks 2 motorized carts on **Day 2 (Sun 27 Dec)**, **Day 5 (Wed 30 Dec)**, **Day 6 (Thu 31 Dec)**, or **Day 7 (Fri 01 Jan)**, pull from this overflow pool *(Mona Vale GC is already in the primary 7-club pool above)*:
+
+| Overflow Club | Location | Est. 4-Ball (incl. 2 Carts) | Booking Channel & Phone | Best Fit Days & Key Notes |
+| :--- | :--- | :---: | :--- | :--- |
+| **Wakehurst Golf Club** | Seaforth / Northern Beaches | `~$418` (`$77 + $27.50` cart) | MiClub online + **call `(02) 9948 6126`** for 2 carts (`$55/cart`) | **Days 2, 5, 6, 7** — Championship parkland (~20 min from North Ryde); social play available afternoons & weekdays. |
+| **Eastlake Golf Club** | Daceyville / Kingsford | `$400–$520` (`~$100–$130/pp`) | Online weekday social + **call `(02) 9663 1374 ext. 1`** for carts | **Day 5 (Wed) & Day 6 (Thu NYE)** — ~12 min from Little Bay; preserves `12:30 PM` pre-NYE departure. |
+| **Lynwood Golf & CC** | Pitt Town (Hawkesbury) | `$440–$580` (`~$110–$145/pp`) | Online / Pro Shop `(02) 4580 2800` | **Days 2, 5, 6, 7** — Graham Marsh design; welcomes social play **7 days/week** with motorized carts. |
+| **Macquarie Links International** | Macquarie Links (SW Sydney) | `$440–$580` (`~$110–$145/pp`) | Online / Pro Shop `(02) 8796 5811` | **Day 7 (Fri 01 Jan NYD)** — GPS carts; Friday corporate days do not run on New Year's Day. |
