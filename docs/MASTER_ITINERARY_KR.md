@@ -40,7 +40,7 @@
 - **Day 2 (12/27 일):** 오전 휴식 → `12:00` **Stonecutters Ridge GC** → 귀가 후 저녁/BBQ
 - **Day 3 (12/28 월):** `05:15` 출발 → `07:30` **Magenta Shores** → `12:30` 점심 → `15:15` North Ryde 복귀 휴식 → **`18:30` 저녁:** **Eastwood** (~10분, 한식 BBQ / 중식 / 베트남식) 또는 에어비앤비 BBQ
 - **Day 4 (12/29 화):** `09:15` 출발 → `11:09` **New South Wales GC** → 클럽하우스 샤워 → 본다이 해변 이동 (Pacific Bondi 주차) → **`17:15–19:15` 저녁:** **Bondi Icebergs Club** (*The Bergs Bistro* 아래층 발코니, 선셋 뷰, 신분증 사인인, 주방 `20:30`)
-- **Day 5 (12/30 수):** `07:00` **Riverside Oaks** → `13:30` 귀가·휴식 → **`15:30` North Ryde Metro 탑승** → Barangaroo / Circular Quay **시드니 CBD & 오페라하우스 투어** (주차 스트레스 0) → **`17:30–19:30` 메리어트 저녁:** **Pier Dining** *(Pier One Sydney Harbour — Club Marriott `-20%` + Bonvoy `#376655358`, 평일 수요일 공휴일 할증 `0%`, 5인 순지출 `$476–$580 AUD`)* → Metro 복귀 `~20:15`
+- **Day 5 (12/30 수):** `07:00` **Riverside Oaks** → `13:30` 귀가·휴식 → **`15:30` North Ryde Metro 탑승** → Barangaroo / Circular Quay **시드니 CBD & 오페라하우스 투어** (주차 스트레스 0) → **`17:30–19:30` 저녁:** **Pier Dining** *(Pier One Sydney Harbour)* → Metro 복귀 `~20:15`
 - **Day 6 (12/31 목, NYE):** `07:00` **The Coast GC** → **`12:30 PM` 전 철수** → North Ryde 휴식 → **김원규 자택 NYE 디너 & 카운트다운**
 - **Day 7 (1/01 금):** `08:30` **Twin Creeks G&CC** → 귀국 짐 정리 & 송별 저녁
 - **Day 8 (1/02 토):** `06:45` 체크아웃 → `07:30` SYD T1 드롭오프 → `10:20` **OZ602** 출국
