@@ -3,20 +3,20 @@
 > **Purpose:** Actionable contingency booking plan for the **4 remaining open rounds (Days 2, 5, 6, 7)** across **7 target clubs** (`28 cases: 1.1 – 4.7`).  
 > **Golden Rule (No Repeat Clubs):** The moment any club is confirmed for a day, **check it off the Club Pool Tracker below** and skip that club on all remaining days.  
 > **Cart Lock Protocol:** Always select/request **2 motorized carts** on the opening trigger day (summer holiday carts sell out faster than tee times).  
-> **Paid & Locked Rounds (Excluded from Pool):** Day 3 Mon 28 Dec = **Magenta Shores** (`07:30`, PAID) | Day 4 Tue 29 Dec = **NSW Golf Club** (`11:09`, PAID) | *(Day 1 Sat 26 Dec = **Long Reef GC**, opens `Sat 28 Nov`)*
+> **Paid & Locked Rounds (Excluded from Pool):** Day 3 Mon 28 Dec = **Magenta Shores** (`07:30`, PAID) | Day 4 Tue 29 Dec = **NSW Golf Club** (`11:09`, PAID) | *(Day 1 Sat 26 Dec = **Long Reef GC**, opens `Sat 28 Nov` → [Book Online (MiClub)](https://longreef.miclub.com.au/guests/bookings/ViewPublicCalendar.msp?booking_resource_id=3000000))*
 
 ---
 
-## 1. Live Club Pool & Day Status Tracker
+## 1. Live Club Pool & Direct Booking Portals
 
 ### A. 7-Club Pool (Cross Off Once Confirmed — Max 1 Round Per Club)
-- [ ] **Mona Vale GC** (`(02) 9999 4266` | `mvgc.com.au` | 14d window) — Assigned Day: `___`
-- [ ] **St. Michael's GC** (`(02) 9326 8000` | [MiClub](https://stmichaelsgolf.miclub.com.au/guests/bookings/ViewAllTeeSheets.2wm) | 8d @ `16:00 AEDT`) — Assigned Day: `___`
-- [ ] **Stonecutters Ridge GC** (`(02) 9627 1816` | `golf@srgc.net.au` | 14d social / Mon `09:30` leftovers / 5d manual comp) — Assigned Day: `___`
-- [ ] **Riverside Oaks — Gangurru** (`(02) 4560 3200` | `riversideoaks.com.au` | 21d online / 14d phone) — Assigned Day: `___`
-- [ ] **Kooindah Waters GC** (`(02) 4351 0700` | `kooindahwatersgolf.com.au` | 14d window) — Assigned Day: `___`
-- [ ] **The Coast GC** (`(02) 9311 7422` | `thecoastgolf.com.au` | 7d strict, **Non-AMEX**) — Assigned Day: `___`
-- [ ] **Twin Creeks G&CC** (`(02) 9670 8888` | `twincreeksgolf.com.au` | 14d @ `05:00 AM` / check 16d) — Assigned Day: `___`
+- [ ] **Mona Vale GC** (`(02) 9999 4266` | 14d window) — **[Public Booking Portal](https://www.monavalegc.com.au/cms/public-golf/)** | Assigned Day: `___`
+- [ ] **St. Michael's GC** (`(02) 9326 8000` | 8d @ `16:00 AEDT`) — **[MiClub Tee Sheets](https://stmichaelsgolf.miclub.com.au/guests/bookings/ViewAllTeeSheets.2wm)** | Assigned Day: `___`
+- [ ] **Stonecutters Ridge GC** (`(02) 9627 1816` | `golf@srgc.net.au` | 14d social / Mon `09:30` leftovers / 5d comp) — **[Book a Tee Time](https://www.stonecuttersgc.com.au/play/book-a-tee-time/)** | Assigned Day: `___`
+- [ ] **Riverside Oaks — Gangurru** (`(02) 4560 3200` | 21d online / 14d phone) — **[MiClub Public Portal](https://portal.miclub.com.au/courses/public/teetimes?club=riversideoaks)** · [Main Site](https://www.riversideoaks.com.au) | Assigned Day: `___`
+- [ ] **Kooindah Waters GC** (`(02) 4351 0700` | 14d window) — **[Public Bookings](https://kooindahwatersgolf.com.au/public-bookings/)** · [MiClub Login](https://kooindahwatersgolf.com.au/cms/golf-bookings/) | Assigned Day: `___`
+- [ ] **The Coast GC** (`(02) 9311 7422` | 7d strict, **Non-AMEX**) — **[Official Site / Public Bookings](https://www.coastgolf.com.au/)** *(Register in advance for MiClub login)* | Assigned Day: `___`
+- [ ] **Twin Creeks G&CC** (`(02) 9670 8888` | 14d @ `05:00 AM` / check 16d) — **[Public Bookings](https://www.twincreeksgolf.com.au/public-bookings/)** · [MiClub Portal](https://portal.miclub.com.au/courses/public/teetimes?clubcode=twincreeks) | Assigned Day: `___`
 
 ### B. 4 Target Days Status Board
 | Day | Date | Target Tee Window | Confirmed Club | Tee Time | Carts | Booking Ref / Notes |
