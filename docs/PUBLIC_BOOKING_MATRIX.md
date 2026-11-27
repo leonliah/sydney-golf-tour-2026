@@ -10,7 +10,7 @@
 ## 1. Live Club Pool & Direct Booking Portals
 
 ### A. 7-Club Pool (Cross Off Once Confirmed — Max 1 Round Per Club)
-- [ ] **Mona Vale GC** (`(02) 9999 4266` | 14d window) — **[Public Booking Portal](https://www.monavalegc.com.au/cms/public-golf/)** | Assigned Day: `___`
+- [ ] **Mona Vale GC** (`(02) 9999 4266` | 14d window) — **[Online Social Tee Bookings](https://www.mvgc.com.au/cms/golf/online-social-tee-bookings/)** | Assigned Day: `___`
 - [ ] **St. Michael's GC** (`(02) 9326 8000` | 8d @ `16:00 AEDT`) — **[MiClub Tee Sheets](https://stmichaelsgolf.miclub.com.au/guests/bookings/ViewAllTeeSheets.2wm)** | Assigned Day: `___`
 - [ ] **Stonecutters Ridge GC** (`(02) 9627 1816` | `golf@srgc.net.au` | 14d social / Mon `09:30` leftovers / 5d comp) — **[Book a Tee Time](https://www.stonecuttersgc.com.au/play/book-a-tee-time/)** | Assigned Day: `___`
 - [ ] **Riverside Oaks — Gangurru** (`(02) 4560 3200` | 21d online / 14d phone) — **[MiClub Public Portal](https://portal.miclub.com.au/courses/public/teetimes?club=riversideoaks)** · [Main Site](https://www.riversideoaks.com.au) | Assigned Day: `___`
