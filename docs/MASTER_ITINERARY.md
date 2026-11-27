@@ -32,8 +32,7 @@
 | **Day 5 (Backup)** Wed 30 Dec | **Stonecutters Ridge GC** *(All-Day Social)* | Greg Norman & Bob Harrison | `07:00-08:30` | `$105-$135` | `$420-$540` | Backup | **Avoid Kooindah Waters Wed AM** (Ladies Comp blocks `07:00-08:30`). Use Stonecutters (`(02) 9627 1816`) or Kooindah PM (`(02) 4351 0700`). |
 | **Day 6 (1st)** Thu 31 Dec *(NYE)* | **The Coast GC** *(Little Bay Cliff Links)* | Ocean Cliff Links | `07:00-08:00` | `$135` local / `$230` intl | `$540-$920` | Opens 24 Dec | **Thu 24 Dec @ 07:00 AEDT** (7-day MiClub, **Non-AMEX** Visa/MC; `(02) 9311 7422`). Leave by `12:30 PM` sharp. |
 | **Day 6 (Backups)** Thu 31 Dec *(NYE)* | **St. Michael's** (Thu Open Comp) / **Eastlake GC** | Top 50 Links / Championship Parkland | `07:00-08:00` | `$100-$275` | `$400-$1,100` | Backups | St. Michael's: confirm KGA WHS Thu Open Comp before **Wed 23 Dec @ 16:00** (social `15:00+`). Eastlake: online weekday social + call `(02) 9663 1374 ext. 1` for NYE carts. |
-| **Day 7 (1st)** Fri 01 Jan *(PH)* | **Twin Creeks G&CC** *(Luddenham)* | Graham Marsh (Slope 136, NSW Open Host) | `08:30-09:00` | `$145.00` | `$580.00` | Opens 18 Dec | **Fri 18 Dec @ 05:00 AM AEDT** sharp (14-day window; `(02) 9670 8888`; verify NYD holiday comp/rates). |
-| **Day 7 (Backups)** Fri 01 Jan *(PH)* | **Stonecutters** / **Lynwood CC** / **Macquarie Links** | Norman / Graham Marsh (7-Day Social) | `08:30-09:30` | `$105-$145` | `$420-$580` | Backups | Stonecutters Fri social (`(02) 9627 1816`); **Lynwood CC** (`(02) 4580 2800`); **Macquarie Links** (`(02) 8796 5811`). |
+| **Day 7** Fri 01 Jan *(PH)* | **Mona Vale GC** *(Northern Beaches)* | Seaside Parkland (GPS Carts) | **`07:01 AM`** | **`$95.00`** *(+$30 cart)* | **`$380.00 PAID`** *(+$120 carts)* | **PAID (Call for Carts)** | Ref `158262-P-PNUENLXZ` (`28 Nov @ 08:32 AEDT`); **call `(02) 9999 4266` / `proshop@mvgc.com.au` to lock 2 GPS carts**. |
 
 ---
 
@@ -41,11 +40,11 @@
 
 | Category | Total (AUD) | Approx. KRW (@900) | Per Golfer (AUD) |
 | :--- | :---: | :---: | :---: |
-| Confirmed & Paid (Long Reef + Magenta Shores + NSW GC) | `$5,610.38` | ~5,049,000 KRW | `$1,402.60` |
-| Remaining 4 Championship Rounds (Days 2, 5, 6, 7) | `$2,180.00` | ~1,962,000 KRW | `$545.00` |
-| **Total 7-Round Base Green Fee Budget** | **`$7,790.38`** | **`~7,011,000 KRW`** | **`$1,947.60`** |
-| Worst-Case Intl Visitor Buffer (The Coast @ `$230/pp`: `+$380`) | `$8,170.38` | ~7,353,000 KRW | `$2,042.60` |
-| Net Direct Savings vs Initial Baseline (`$9,760.38`) | `-$1,970.00` | ~-1,773,000 KRW | `-$492.50` |
+| Confirmed & Paid (Long Reef + Magenta Shores + NSW GC + Mona Vale green) | `$5,990.38` | ~5,391,000 KRW | `$1,497.60` |
+| Remaining 3 Rounds (Days 2, 5, 6) + Day 7 Carts (`$120`) | `$1,720.00` | ~1,548,000 KRW | `$430.00` |
+| **Total 7-Round Base Green Fee Budget** | **`$7,710.38`** | **`~6,939,000 KRW`** | **`$1,927.60`** |
+| Worst-Case Intl Visitor Buffer (The Coast @ `$230/pp`: `+$380`) | `$8,090.38` | ~7,281,000 KRW | `$2,022.60` |
+| Net Direct Savings vs Initial Baseline (`$9,760.38`) | `-$2,050.00` | ~-1,845,000 KRW | `-$512.50` |
 
 ---
 
@@ -57,7 +56,7 @@
 - **Day 4 (Tue 29 Dec):** `09:15` depart North Ryde -> `11:09 AM` **New South Wales Golf Club** (`NSW-53ZR560E`) -> `16:15-16:45` clubhouse shower -> drive to Bondi (park at Pacific Bondi Car Park) -> **`17:15-19:15` Dinner:** **Bondi Icebergs Club** (*The Bergs Bistro* downstairs balcony, sunset view, passport/ID visitor sign-in, kitchen `20:30`).
 - **Day 5 (Wed 30 Dec):** `07:00-08:00 AM` **Riverside Oaks (Gangurru)** -> `~13:30` return to North Ryde & shower -> **`15:30` North Ryde Metro -> Barangaroo / Circular Quay** for **Sydney CBD & Opera House Tour** (zero CBD parking) -> **`17:30-19:30` Marriott Dinner:** **Pier Dining** *(Pier One Sydney Harbour - normal Wed = full Club Marriott `-20%` + Bonvoy `#376655358`, `0%` PH surcharge, `$476-$580 AUD` net for 5 adults; email `pierdining@autographhotels.com` to confirm in writing)* -> Metro home `~20:15`. *(Backup: **Sydney Common** at Sheraton Grand Hyde Park.)*
 - **Day 6 (Thu 31 Dec - NYE):** `07:00-08:00 AM` **The Coast GC** -> **depart Little Bay by `12:30 PM` sharp** to beat NYE road closures -> afternoon rest -> **NYE Dinner & Countdown at Won Gue Kim's house**.
-- **Day 7 (Fri 01 Jan - New Year's Day):** `08:30-09:00 AM` **Twin Creeks G&CC** -> afternoon packing & farewell dinner.
+- **Day 7 (Fri 01 Jan - New Year's Day):** `07:01 AM` **Mona Vale GC** (PAID `158262-P-PNUENLXZ`; call for 2 carts) -> afternoon packing & farewell dinner.
 - **Day 8 (Sat 02 Jan):** `06:45 AM` checkout -> `07:30 AM` SYD T1 drop-off -> `10:20 AM` **OZ602** to ICN (`19:00` arrival).
 
 ---
@@ -67,5 +66,5 @@
 - [x] **Sat 28 Nov 2026 @ 07:46 AEDT (PAID):** Booked **Day 1 Long Reef GC** (`Sat 26 Dec @ 13:44`, `$580.00`, Ref `ch_3UgW2BHtuHAdZzrE1qMoh5YF`).
 - [ ] **Wed 09 Dec 2026 @ 07:00 AEDT:** Book **Day 5 Riverside Oaks (Gangurru)** online via MiClub (21-day window; secondary check `Wed 16 Dec` `(02) 4560 3200`).
 - [ ] **Sun 13 Dec / Mon 21 Dec @ 09:30 / Tue 22 Dec:** Book **Day 2 Stonecutters Ridge GC** (MiClub social `13 Dec`; comp leftovers `21 Dec @ 09:30`; manual 5-day comp booking `Tue 22 Dec` via Adam Kelleher `golf@srgc.net.au` / `(02) 9627 1816`).
-- [ ] **Fri 18 Dec 2026 @ 05:00 AM AEDT:** Book **Day 7 Twin Creeks G&CC** (`08:30-09:00 AM`, `(02) 9670 8888`).
+- [x] **Sat 28 Nov 2026 @ 08:32 AEDT (PAID):** Booked **Day 7 Mona Vale GC** (`Fri 01 Jan @ 07:01 AM`, `$380.00` green fees, Ref `158262-P-PNUENLXZ` — call `(02) 9999 4266` for 2 carts).
 - [ ] **Wed 23 Dec @ 16:00 / Thu 24 Dec @ 07:00 AEDT:** Book **Day 6 The Coast GC** (`Thu 24 Dec @ 07:00`, **Non-AMEX**; `(02) 9311 7422`; Backup 1 St. Michael's `Wed 23 Dec @ 16:00` Thu Open Comp).

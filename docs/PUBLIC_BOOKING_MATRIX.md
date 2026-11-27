@@ -3,14 +3,14 @@
 > **Purpose:** Actionable contingency booking plan for the **4 remaining open rounds (Days 2, 5, 6, 7)** across **7 target clubs** (`28 cases: 1.1 – 4.7`).  
 > **Golden Rule (No Repeat Clubs):** The moment any club is confirmed for a day, **check it off the Club Pool Tracker below** and skip that club on all remaining days.  
 > **Cart Lock Protocol:** Always select/request **2 motorized carts** on the opening trigger day (summer holiday carts sell out faster than tee times).  
-> **Paid & Locked Rounds (3 of 7 Confirmed — Excluded from Pool):** Day 1 Sat 26 Dec = **Long Reef GC** (`13:44`, **`$580.00` PAID**, Ref `ch_3UgW2BHtuHAdZzrE1qMoh5YF`) | Day 3 Mon 28 Dec = **Magenta Shores** (`07:30`, **`$920.00` PAID**) | Day 4 Tue 29 Dec = **NSW Golf Club** (`11:09`, **`$4,110.38` PAID**)
+> **Paid & Locked Rounds (4 of 7 Confirmed — Excluded from Pool):** Day 1 Sat 26 Dec = **Long Reef GC** (`13:44`, `$580.00` PAID) | Day 3 Mon 28 Dec = **Magenta Shores** (`07:30`, `$920.00` PAID) | Day 4 Tue 29 Dec = **NSW Golf Club** (`11:09`, `$4,110.38` PAID) | **Day 7 Fri 01 Jan = Mona Vale GC (`07:01`, `$380.00` green PAID, Ref `158262-P-PNUENLXZ` — call for 2 carts)**
 
 ---
 
 ## 1. Live Club Pool & Direct Booking Portals
 
 ### A. 7-Club Pool (Cross Off Once Confirmed — Max 1 Round Per Club)
-- [ ] **Mona Vale GC** (`(02) 9999 4266` | 14d window) — **[Online Social Tee Bookings](https://www.mvgc.com.au/cms/golf/online-social-tee-bookings/)** | Assigned Day: `___`
+- [x] ~~**Mona Vale GC**~~ (`(02) 9999 4266`) — **[Online Social Tee Bookings](https://www.mvgc.com.au/cms/golf/online-social-tee-bookings/)** | **LOCKED: Day 7 (Fri 01 Jan @ `07:01 AM`, Ref `158262-P-PNUENLXZ`) — ELIMINATED from Days 2, 5, 6!**
 - [ ] **St. Michael's GC** (`(02) 9326 8000` | 8d @ `16:00 AEDT`) — **[MiClub Tee Sheets](https://stmichaelsgolf.miclub.com.au/guests/bookings/ViewAllTeeSheets.2wm)** | Assigned Day: `___`
 - [ ] **Stonecutters Ridge GC** (`(02) 9627 1816` | `golf@srgc.net.au` | 14d social / Mon `09:30` leftovers / 5d comp) — **[Book a Tee Time](https://www.stonecuttersgc.com.au/play/book-a-tee-time/)** | Assigned Day: `___`
 - [ ] **Riverside Oaks — Gangurru** (`(02) 4560 3200` | 21d online / 14d phone) — **[MiClub Public Portal](https://portal.miclub.com.au/courses/public/teetimes?club=riversideoaks)** · [Main Site](https://www.riversideoaks.com.au) | Assigned Day: `___`
@@ -24,7 +24,7 @@
 | **Day 2** | **Sun 27 Dec 2026** | `12:00+` PM *(or AM)* | *(Open)* | — | 2 | Preferred: Stonecutters (`1.3`) / St. Michael's (`1.2`) |
 | **Day 5** | **Wed 30 Dec 2026** | `07:00–08:30` AM | *(Open)* | — | 2 | Must finish by `13:30` (`15:30` Metro → `17:30` Pier Dining) |
 | **Day 6** | **Thu 31 Dec 2026 (NYE)** | `07:00–08:00` AM | *(Open)* | — | 2 | **Must depart by `12:30 PM`** (NYE road closures) |
-| **Day 7** | **Fri 01 Jan 2027 (NYD)** | `08:30–09:30` AM | *(Open)* | — | 2 | Post-NYE recovery start; preferred: Twin Creeks (`4.7`) |
+| **Day 7** | **Fri 01 Jan 2027 (NYD)** | `07:01` AM | **Mona Vale GC** *(PAID)* | **`07:01 AM`** | **2 (Call)** | Ref `158262-P-PNUENLXZ` (`$380` green PAID; call `(02) 9999 4266` for 2 GPS carts) |
 
 ---
 

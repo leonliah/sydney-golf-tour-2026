@@ -31,12 +31,11 @@
 | **Day 5 (Backup)** Wed 30 Dec | **Stonecutters Ridge GC** *(All-Day Social)* | `07:00–08:30` | `$420–$540` | 🟠 Backup | **Avoid Kooindah Waters Wed AM** (Ladies Comp). Pivot AM backup to **Stonecutters Ridge** (`(02) 9627 1816`) or Kooindah PM (`(02) 4351 0700`). |
 | **Day 6 (1st)** Thu 31 Dec *(NYE)* | **The Coast GC** *(Cliff Links)* | `07:00–08:00` | `$540–$920` | 🟠 Opens 24 Dec | **Thu 24 Dec** (`00:01`/`06:30–07:00`, **Non-AMEX**; `(02) 9311 7422`). **Leave by `12:30 PM`** before NYE closures → **NYE Dinner & Countdown at Won's house**. |
 | **Day 6 (Backups)** Thu 31 Dec *(NYE)* | **St. Michael's** (Thu Open Comp) / **Eastlake GC** | `07:00–08:00` | `$400–$1,100` | 🟠 Backups | St. Michael's: confirm KGA WHS Thu Open Comp before **Wed 23 Dec @ 16:00** (social `15:00+`). Eastlake: online weekday social + call `(02) 9663 1374 ext. 1` for NYE carts. |
-| **Day 7 (1st)** Fri 01 Jan *(PH)* | **Twin Creeks G&CC** *(Marsh)* | `08:30–09:00` | `$580.00` | 🟠 Opens 18 Dec | **Fri 18 Dec @ 05:00 AM AEDT** sharp (14d window; `(02) 9670 8888`; verify NYD holiday comp/rates). |
-| **Day 7 (Backups)** Fri 01 Jan *(PH)* | **Stonecutters** / **Lynwood CC** / **Macquarie Links** | `08:30–09:30` | `$420–$580` | 🟠 Backups | Stonecutters Fri social (`(02) 9627 1816`); **Lynwood CC** 7-day social (`(02) 4580 2800`); **Macquarie Links** (`(02) 8796 5811`). |
+| **Day 7** Fri 01 Jan *(PH)* | **Mona Vale GC** *(Seaside)* | **`07:01 AM`** | **`$380` + `$120` carts** | 🟢 **PAID (Carts Req)** | Ref `158262-P-PNUENLXZ` (`28 Nov`, green fees PAID). **Call `(02) 9999 4266`** / `proshop@mvgc.com.au` to reserve **2 GPS carts (`$120`)**. |
 
 ---
 
 ## 3. Budget Summary & Active Automation
-- **Paid (`🟢` 3/7):** **`$5,610.38 AUD`** (Long Reef `$580` + Magenta Shores `$920` + NSW GC `$4,110.38`) | **Remaining 4 Rounds:** `~$2,180.00 AUD` base | **Total Base:** **`$7,790.38 AUD`** (`$1,947.60/pp`, `~₩7.01M`, `-$1,970` saved vs baseline; Intl worst-case `$8,170.38 AUD`).
+- **Paid (`🟢` 4/7):** **`$5,990.38 AUD`** (Long Reef `$580` + Magenta Shores `$920` + NSW GC `$4,110.38` + Mona Vale `$380` green) | **Remaining 3 Rounds + Day 7 Carts:** `~$1,720.00 AUD` base | **Total Base:** **`$7,710.38 AUD`** (`$1,927.60/pp`, `~₩6.94M`, `-$2,050` saved vs baseline; Intl worst-case `$8,090.38 AUD`).
 - **Hermes Automation (`server01`):** `22` one-shot email reminders + `sydney-golf-reply-watcher` (`cbdfee868d77`) active.
 - **Check-In Handout:** [`CLUB_CHECKIN_SHEET.html`](CLUB_CHECKIN_SHEET.html) | **Dining Playbook:** [`marriott_dining_playbook.md`](marriott_dining_playbook.md)
