@@ -1,108 +1,72 @@
-# Sydney Golf & Tour 2026-2027 Context (SSOT)
+# Sydney Golf & Tour 2026-2027 Master Itinerary & Execution Plan (SSOT)
 
-> **Source of Origin (SSOT):** [Sydney Golf & Tour 2026-2027 Master Itinerary (V3.0 Smart-Luxury Google Doc)](https://docs.google.com/document/d/1-n3gonr1VTphtwbnRMrh_3xuUNk0zVgABavcoluEM4s/edit?tab=t.0)  
-> **Master Google Doc ID:** `1-n3gonr1VTphtwbnRMrh_3xuUNk0zVgABavcoluEM4s`  
-> **GitHub Gist (Formatted View):** [https://gist.github.com/leonliah/770842db1c3fbcad66837d7649941f6f](https://gist.github.com/leonliah/770842db1c3fbcad66837d7649941f6f)  
-> **GitHub Korean Master:** [docs/MASTER_ITINERARY_KR.md](MASTER_ITINERARY_KR.md)  
-> **GitHub Project Repository:** [https://github.com/leonliah/sydney-golf-tour-2026](https://github.com/leonliah/sydney-golf-tour-2026)  
-
----
-
-## 1. Trip Overview & Travel Roster
-
-- **Travel Dates:** Saturday, 26 December 2026 – Saturday, 2 January 2027 (7 Nights / 8 Days)
-- **Base of Operations:** 27A Michael Street, North Ryde NSW 2113 (Entire House Airbnb, Fully Confirmed: `9,440,000 KRW` / ~$10,500 AUD)
-- **Golfers (4-Ball Team):**
-  - **Han Jaehoon** (`mis157@naver.com` | WHS ID: `20260005613` | Handicap Index: `9.3` | Low H.I.: `8.0` | (T2) KGA E-Club | Certificate Verified & Archived ✅)
-  - **Lim Cheonsoo** (WHS ID: `20260030682` | Handicap Index: `1.0` | (T2) KGA E-Club | Certificate Verified & Archived ✅)
-  - **Kim Jaechun** (WHS ID: `20260030716` | Handicap Index: `3.2` | (T2) KGA E-Club | Certificate Verified & Archived ✅)
-  - **Yang Chunkeum** (WHS ID: `20260030741` | Handicap Index: `1.9` | (T2) KGA E-Club | Certificate Verified & Archived ✅)
-- **International Flights (Asiana Airlines):**
-  - **Inbound (OZ601):** Fri 25 Dec 2026 20:00 (ICN) -> Sat 26 Dec 2026 08:20 (SYD T1) [Seats: 21G, 21J, 21A, 21D]
-  - **Outbound (OZ602):** Sat 2 Jan 2027 10:20 (SYD T1) -> Sat 2 Jan 2027 19:00 (ICN) [Seats: 17D, 17J, 19J, 17G]
-- **Course Selection Rule (Codified 2026-11-16):** Prioritize **quality, memorable clubs at a reasonable value (`~$120–$350/pp`)** for visiting Korean golfers — **no budget/suburban-filler or walk-up clubs** (`Muirfield`, `Lynwood`, `North Ryde`, `Macquarie Links` purged) and **no overpriced `$500–$750+/pp` traps** (`The Lakes`, `Terrey Hills`).
+> Last Synced: 2026-11-27
+> Travel Dates: Saturday, 26 December 2026 - Saturday, 2 January 2027 (7 Nights / 8 Days, 7 Rounds)
+> Basecamp: 27A Michael Street, North Ryde NSW 2113 (Confirmed Entire House Airbnb: 9,440,000 KRW / ~$10,500 AUD | Check-in 15:00+)
+> Flights (Asiana Airlines): Inbound OZ601 (Fri 25 Dec 20:00 ICN -> Sat 26 Dec 08:20 SYD T1, Seats 21G, 21J, 21A, 21D) | Outbound OZ602 (Sat 02 Jan 10:20 SYD T1 -> 19:00 ICN, Seats 17D, 17J, 19J, 17G)
+> Vehicle: Strict 8-Seat 2-3-3 Bench Kia Carnival (1.78m height, 3rd row folded flat for 5 pax + 4 golf bags + 4 suitcases + active e-Tag)
 
 ---
 
-## 2. 7-Day Golf Course Master Schedule & Exact Pricing Matrix
+## 1. 4-Ball Roster & Verified KGA WHS Handicap IDs
 
-| Day / Date | Course & Location | Architect / Pedigree | Tee Time | Price / Player | 4-Ball Total | Status | Next Action |
+| Golfer | Role | KGA WHS ID | Handicap Index | Low H.I. | Club / Verification |
+| :--- | :--- | :---: | :---: | :---: | :--- |
+| **Han, Jaehoon** | Lead (`mis157@naver.com`) | `20260005613` | `9.3` | `8.0` | (T2) KGA E-Club - Certificate Verified |
+| **Lim, Cheonsoo** | Player 2 | `20260030682` | `1.0` | - | (T2) KGA E-Club - Certificate Verified |
+| **Kim, Jaechun** | Player 3 | `20260030716` | `3.2` | - | (T2) KGA E-Club - Certificate Verified |
+| **Yang, Chunkeum** | Player 4 | `20260030741` | `1.9` | - | (T2) KGA E-Club - Certificate Verified |
+
+---
+
+## 2. 7-Day Golf Course Master Schedule & Backup Matrix
+
+| Day / Date | Course & Location | Architect / Pedigree | Tee Time | Price / Player | 4-Ball Total | Status | Booking Window & Notes |
 | :--- | :--- | :--- | :---: | :---: | :---: | :--- | :--- |
-| **Day 1 (1st Choice)**<br>Sat 26 Dec | **Long Reef Golf Club**<br>*(Collaroy Seaside Headland Links)* | **Eric Apperly & Dan Soutar**<br>(Top 80 Aus, Slope 128, Ocean Links) | `14:00–14:15`<br>(Afternoon) | **~$125.00**<br>(incl. cart) | **$500.00** | 🟡 **Inquiry Sent (16 Nov)** | Inquiry sent `16 Nov 2026` (`1a1e1b8fead0bc13`). Book on **Sat 28 Nov 2026** (28-day MiClub window; check `00:01` or `06:30–07:00 AEDT`, `longreefgolfclub.com.au`, `(02) 9982 2943`). |
-| **Day 1 (Backup)**<br>Sat 26 Dec | **Mona Vale Golf Club**<br>*(Northern Beaches Seaside)* | Seaside Parkland<br>*(GPS Motorized Carts)* | `14:00–15:00`<br>(Afternoon) | **~$125.00**<br>($95 + $30 cart) | **$500.00** | 🟠 **Unbooked (Backup)** | Fallback if Long Reef fills: [mvgc.com.au](https://www.mvgc.com.au) MiClub social booking or Pro Shop `(02) 9999 4266` (`15:30+` twilight `$50+cart`). |
-| **Day 2 (1st Choice)**<br>Sun 27 Dec | **Stonecutters Ridge GC**<br>*(Western Sydney)* | **Greg Norman & Bob Harrison**<br>(Slope 138, NSW Open Host) | `Afternoon` *(12:00–12:30)* | **$105–$135**<br>(incl. cart) | **$420–$540** | 🟡 **Inquiry Sent (16 Nov)** | Inquiry sent `16 Nov 2026` (`1a1e1b91ef265c5d`). Sunday AM is member-comp only; social play is **afternoon only** (check 14d `13 Dec`; leftovers **Mon 21 Dec @ 09:30 AM**; `(02) 9627 1816`). |
-| **Day 2 (Backup)**<br>Sun 27 Dec | **St. Michael's Golf Club**<br>*(Little Bay Top 50 Links)* | Ocean Links<br>*(Top 50 Aus Links)* | `12:00+`<br>(Afternoon) | **~$170–$275** | **~$680–$1,100** | 🟠 **Unbooked (Opens 19 Dec @ 16:00)** | Backup if Stonecutters unconfirmed: Opens **Sat 19 Dec 2026 @ 16:00 AEDT** sharp (8-day window; [MiClub Portal](https://stmichaelsgolf.miclub.com.au/guests/bookings/ViewAllTeeSheets.2wm) / `(02) 9326 8000`). |
-| **Day 3**<br>Mon 28 Dec *(PH)* | **Magenta Shores Golf & CC**<br>*(Central Coast Links)* | Ross Watson<br>(Top 35 Links, Slope 140) | `07:30 AM` | **$230.00**<br>($200 green + $30 cart) | **$920.00** | 🟢 **100% PAID & VERIFIED** | Invoice: `WPAHYQBR-0001` \| Receipt: `2637-6526` (Paid $920 AUD on 30 Sep 2026 / Confirmed by Alicia Crouch). Depart North Ryde **05:15 AM**. |
-| **Day 4**<br>Tue 29 Dec | **New South Wales Golf Club**<br>*(World Top 100 Links)* | **Dr. Alister MacKenzie**<br>(World #33 / Aus #5) | `11:09 AM` | **$1,027.60** | **$4,110.38** | 🟢 **100% PAID & VERIFIED** | Ref: `NSW-53ZR560E` (Motorized cart round / Paid in full — verify receipt cart terms). |
-| **Day 5 (1st Choice)**<br>Wed 30 Dec | **Riverside Oaks (Gangurru)**<br>*(Hawkesbury River)* | Resort Parkland<br>(Former NSW Open Host) | `07:00–08:00` | **~$105–$130**<br>(incl. cart) | **~$420–$520** | 🟠 **Unbooked (Opens 9 Dec)** | Pro Shop confirmed: Book online on **Wed 09 Dec 2026** (3-wk MiClub window; check `00:01` or `06:30–07:00 AEDT`) or call **Wed 16 Dec** (`(02) 4560 3200`; verify Gangurru conditioning). |
-| **Day 5 (Backup)**<br>Wed 30 Dec | **Kooindah Waters Golf Club**<br>*(Wyong / Central Coast)* | **Ross Watson**<br>(Top 100 Aus Championship) | `07:00–08:30` | **~$130–$155**<br>(incl. cart) | **~$520–$620** | 🟠 **Unbooked (Opens 16 Dec)** | Backup if Riverside Oaks unavailable: Opens **Wed 16 Dec 2026** (14-day public window; [kooindahwatersgolf.com.au](https://www.kooindahwatersgolf.com.au) / `(02) 4351 0700`). |
-| **Day 6 (1st Choice)**<br>Thu 31 Dec *(NYE)* | **The Coast Golf Club**<br>*(Little Bay Cliff Links)* | Ocean Cliff Links<br>*(Dramatic Ocean Views)* | `07:00–08:00` | **~$135.00** *(Local)*<br>**$230.00** *(Intl)* | **~$540.00**<br>*(up to $920)* | 🟠 **Unbooked (Opens 24 Dec)** | Book online on **Thu 24 Dec 2026** (7-day window; check `00:01` or `06:30–07:00 AEDT`, **Non-AMEX** Visa/MC; Pro Shop `(02) 9311 7422`). Intl visitor rate: `$175 + $25 fee + $30 cart = $230/pp`. Leave Little Bay by **12:30 PM**. |
-| **Day 6 (2nd Choice / Co-Target)**<br>Thu 31 Dec *(NYE)* | **St. Michael's Golf Club**<br>*(Little Bay Top 50 Links)* | Ocean Links<br>*(Top 50 Aus Links)* | `07:00–08:30` | **~$170–$275** | **~$680–$1,100** | 🟠 **Unbooked (Opens 23 Dec @ 16:00)** | Opens **Wed 23 Dec 2026 @ 16:00 AEDT** sharp (8-day window; [MiClub Portal](https://stmichaelsgolf.miclub.com.au/guests/bookings/ViewAllTeeSheets.2wm) / `golfbookings@stmichaelsgolf.com.au` / `(02) 9326 8000`). **Try to book both The Coast & St. Michael's to secure** the best NYE morning tee time. Leave Little Bay by **12:30 PM**. |
-| **Day 7 (1st Choice)**<br>Fri 01 Jan *(PH)* | **Twin Creeks Golf & CC**<br>*(Luddenham Championship)* | **Graham Marsh**<br>(Slope 136, NSW Open Host) | `08:30–09:00` | **$145.00**<br>(incl. cart) | **$580.00** | 🟠 **Unbooked (Opens 18 Dec @ 05:00)** | Public 14-day window opens **Fri 18 Dec 2026 @ 05:00 AM AEDT** sharp (`(02) 9670 8888`). Target `08:30–09:00` for post-NYE recovery. |
-| **Day 7 (Backup)**<br>Fri 01 Jan *(PH)* | **Stonecutters Ridge GC**<br>*(or Kooindah Waters if Day 2 = Stonecutters)* | **Greg Norman & Bob Harrison**<br>(Friday = All-Day Social Play) | `08:30–09:30` | **$105–$135**<br>(incl. cart) | **$420–$540** | 🟠 **Unbooked (Backup)** | Fallback if Twin Creeks fills: Fridays allow all-day social play at Stonecutters (`(02) 9627 1816`). *(If Stonecutters played on Day 2, pivot to Kooindah Waters `(02) 4351 0700`.)* |
+| **Day 1 (1st)** Sat 26 Dec *(PH)* | **Long Reef GC** *(Collaroy Links)* | Eric Apperly & Dan Soutar (Top 80 Aus) | `14:00-14:15` | `~$125.00` (incl. cart) | `$500.00` | **Opens Sat 28 Nov** | Website-only **prepaid** via MiClub (`00:01` or `06:30-07:00 AEDT`); carts booked online at checkout (`(02) 9982 2943`). |
+| **Day 1 (Backups)** Sat 26 Dec *(PH)* | **Mona Vale GC** / **Wakehurst GC** | Northern Beaches Seaside / Parkland | `14:00-15:30+` | `$104.50-$125` | `$418-$500` | Backups | Mona Vale Sat social opens **`15:30+`** (`(02) 9999 4266`). Wakehurst social **`13:00+`** online + call `(02) 9948 6126` for 2 carts (`$55/cart`). |
+| **Day 2 (1st)** Sun 27 Dec | **Stonecutters Ridge GC** *(Western Sydney)* | Greg Norman & Bob Harrison (Slope 138) | `12:00-12:30` | `$105-$135` | `$420-$540` | **Replied 19 Nov** | **Adam Kelleher** (`golf@srgc.net.au`) confirmed manual `Competition Bookings` **5 days out (`Tue 22 Dec`)**; also check MiClub (`13 Dec`) & comp leftovers **Mon 21 Dec @ 09:30** (`(02) 9627 1816`). |
+| **Day 2 (Backup)** Sun 27 Dec | **St. Michael's GC** *(Little Bay)* | Top 50 Aus Ocean Links | `12:00+` PM | `~$170-$275` | `$680-$1,100` | Opens 19 Dec | **Sat 19 Dec @ 16:00 AEDT** sharp (8-day MiClub window; `(02) 9326 8000`). |
+| **Day 3** Mon 28 Dec *(PH)* | **Magenta Shores G&CC** *(Central Coast)* | Ross Watson (Top 35 Links, Slope 140) | **`07:30 AM`** | **`$230.00`** | **`$920.00`** | **100% PAID** | Invoice `WPAHYQBR-0001` / Receipt `2637-6526` confirmed by Alicia Crouch. |
+| **Day 4** Tue 29 Dec | **New South Wales GC** *(La Perouse)* | Dr. Alister MacKenzie (World #33 / Aus #5) | **`11:09 AM`** | **`$1,027.60`** | **`$4,110.38`** | **100% PAID** | Ref `NSW-53ZR560E` (verify 2 motorized carts in writing on receipt). |
+| **Day 5 (1st)** Wed 30 Dec | **Riverside Oaks (Gangurru)** *(Hawkesbury)* | Former NSW Open Host | `07:00-08:00` | `$105-$130` | `$420-$520` | Opens 09 Dec | **Wed 09 Dec @ 07:00 AEDT** (21-day MiClub); confirm **Wed 16 Dec** (`(02) 4560 3200`). |
+| **Day 5 (Backup)** Wed 30 Dec | **Stonecutters Ridge GC** *(All-Day Social)* | Greg Norman & Bob Harrison | `07:00-08:30` | `$105-$135` | `$420-$540` | Backup | **Avoid Kooindah Waters Wed AM** (Ladies Comp blocks `07:00-08:30`). Use Stonecutters (`(02) 9627 1816`) or Kooindah PM (`(02) 4351 0700`). |
+| **Day 6 (1st)** Thu 31 Dec *(NYE)* | **The Coast GC** *(Little Bay Cliff Links)* | Ocean Cliff Links | `07:00-08:00` | `$135` local / `$230` intl | `$540-$920` | Opens 24 Dec | **Thu 24 Dec @ 07:00 AEDT** (7-day MiClub, **Non-AMEX** Visa/MC; `(02) 9311 7422`). Leave by `12:30 PM` sharp. |
+| **Day 6 (Backups)** Thu 31 Dec *(NYE)* | **St. Michael's** (Thu Open Comp) / **Eastlake GC** | Top 50 Links / Championship Parkland | `07:00-08:00` | `$100-$275` | `$400-$1,100` | Backups | St. Michael's: confirm KGA WHS Thu Open Comp before **Wed 23 Dec @ 16:00** (social `15:00+`). Eastlake: online weekday social + call `(02) 9663 1374 ext. 1` for NYE carts. |
+| **Day 7 (1st)** Fri 01 Jan *(PH)* | **Twin Creeks G&CC** *(Luddenham)* | Graham Marsh (Slope 136, NSW Open Host) | `08:30-09:00` | `$145.00` | `$580.00` | Opens 18 Dec | **Fri 18 Dec @ 05:00 AM AEDT** sharp (14-day window; `(02) 9670 8888`; verify NYD holiday comp/rates). |
+| **Day 7 (Backups)** Fri 01 Jan *(PH)* | **Stonecutters** / **Lynwood CC** / **Macquarie Links** | Norman / Graham Marsh (7-Day Social) | `08:30-09:30` | `$105-$145` | `$420-$580` | Backups | Stonecutters Fri social (`(02) 9627 1816`); **Lynwood CC** (`(02) 4580 2800`); **Macquarie Links** (`(02) 8796 5811`). |
 
 ---
 
-## 3. Financial Summary & Total Budget Breakdown
+## 3. Financial Summary & Golf Budget
 
-| Category | Total Amount (AUD) | Approximate Total (KRW @ 900) | Per Golfer (AUD) | Per Golfer (KRW) |
-| :--- | :---: | :---: | :---: | :---: |
-| **Day 1: Long Reef Golf Club (~$125 incl cart)** | **$500.00** | ~450,000 KRW | $125.00 | ~112,500 KRW |
-| **Confirmed & Paid (NSW Golf Club)** | **$4,110.38** | ~3,699,000 KRW | $1,027.60 | ~925,000 KRW |
-| **Confirmed & Paid (Magenta Shores)** | **$920.00** | ~828,000 KRW | $230.00 | ~207,000 KRW |
-| **Remaining 4 Championship Public Rounds (Days 2, 5, 6, 7)** | **$2,180.00** | ~1,962,000 KRW | $545.00 | ~490,500 KRW |
-| **Total 7-Round Green Fee Budget ($5,030.38 Paid + $2,680.00 Nov/Dec Bookings)** | **`$7,710.38 AUD`** | **`~6,939,000 KRW`** | **`$1,927.60 AUD`** | **`~1,734,840 KRW`** |
-| **Worst-Case Intl Visitor Buffer (The Coast @ $230/pp: +$380.00 AUD)** | **`$8,090.38 AUD`** | **`~7,281,000 KRW`** | **`$2,022.60 AUD`** | **`~1,820,340 KRW`** |
-| **Net Direct Savings vs Initial Baseline ($9,760.38)** | **`-$2,050.00 AUD`** | **`~-1,845,000 KRW`** | **`-$512.50 AUD`** | **`~-461,250 KRW`** |
+| Category | Total (AUD) | Approx. KRW (@900) | Per Golfer (AUD) |
+| :--- | :---: | :---: | :---: |
+| Confirmed & Paid (NSW Golf Club + Magenta Shores) | `$5,030.38` | ~4,527,000 KRW | `$1,257.60` |
+| Remaining 5 Championship Rounds (Days 1, 2, 5, 6, 7) | `$2,680.00` | ~2,412,000 KRW | `$670.00` |
+| **Total 7-Round Base Green Fee Budget** | **`$7,710.38`** | **`~6,939,000 KRW`** | **`$1,927.60`** |
+| Worst-Case Intl Visitor Buffer (The Coast @ `$230/pp`: `+$380`) | `$8,090.38` | ~7,281,000 KRW | `$2,022.60` |
+| Net Direct Savings vs Initial Baseline (`$9,760.38`) | `-$2,050.00` | ~-1,845,000 KRW | `-$512.50` |
 
 ---
 
-## 4. Master Chronological TODO Checklist
+## 4. Day-by-Day Execution & Finalized Dining Plan
 
-### Phase 1: Immediate Actions (September 2026)
-- [x] **1. Collect KGA Golf IDs:** Collected & verified official certificates for all golfers (Han Jaehoon: 9.3, Lim Cheonsoo: 1.0, Yang Chunkeum: 1.9, Kim Jaechun: 3.2) ✅.
-- [x] **2. Confirm Magenta Shores Hold:** Threaded reply draft generated in Gmail (`1a07ed46211b39b5`) with 4 KGA IDs and credit card payment request for Mon 28 Dec 07:30 AM ($920.00 AUD) ✅.
-- [x] **3. Settle Magenta Shores Fee:** Paid $920.00 AUD on 30 Sep 2026 (Invoice: `WPAHYQBR-0001`, Receipt: `2637-6526`). Payment and tee time confirmed by Pro Shop (Alicia Crouch) on 01 Oct 2026 ✅.
-- [x] **4. Alternative Course Audit & Archive:**
-  - **Castle Hill CC (CHCC):** Steve Gannon (Head Pro) confirmed (08 Sep 2026) CHCC is strictly private; Mon 28 Dec public holiday visitor rate is $375/pp with tee times restricted to after 3:30 PM. Marked non-viable; Magenta Shores ($230 @ 07:30 AM) fully locked as Day 3 primary.
-  - **Terrey Hills GC:** Formally released provisional slot (Invoice `WKIM001`) in favor of budget-optimized championship roster.
-
-### Phase 2: Booking Window Triggers (November – December 2026)
-- [ ] **5. Sat 28 Nov 2026 @ 07:00 AEDT (`05:00 KST`, 28-Day Window):** Book **Day 1 — Long Reef Golf Club** online via **MiClub** (`longreefgolfclub.com.au`) or Pro Shop (`(02) 9982 2943` / `golfshop@lrgc.com.au`; Office `(02) 9971 8113` / `office@lrgc.com.au`) for Sat 26 Dec **`14:00–14:15`** afternoon round + 2 motorized carts. *(Quality Plan-B: Mona Vale GC `(02) 9999 4266` / St. Michael's `(02) 9326 8000`).*
-- [ ] **6. Wed 09 Dec 2026 @ 07:00 AEDT (`05:00 KST`, 21-Day Window):** Book **Day 5 — Riverside Oaks (Gangurru)** online via MiClub for Wed 30 Dec (`07:00–08:00 AM`) or email/call on **Wed 16 Dec 2026 @ 09:00 AM** (`(02) 4560 3200` / `proshop@riversideoaks.com.au`).
-- [ ] **7. Sun 13 Dec 2026 / Mon 21 Dec @ 09:30 AEDT:** Book **Day 2 — Stonecutters Ridge GC** for Sun 27 Dec **earliest afternoon** social slot (`12:00–12:30` if possible; Sunday AM is member-comp only; comp leftovers release **Mon 21 Dec @ 09:30 AM** after Thu ballot; Pro Shop `(02) 9627 1816`). *Quality Plan-B: St. Michael's (`12:00+` PM, opens `19 Dec @ 16:00`) / Riverside Oaks (Gangurru).*
-- [ ] **8. Fri 18 Dec 2026 @ 05:00 AM AEDT (`03:00 KST`, 14-Day Public Window):** Book **Day 7 — Twin Creeks Golf & CC** for Fri 01 Jan **`08:30–09:00 AM`** (`(02) 9670 8888`; also check Wed 16 Dec @ 05:00 AM as backup).
-- [ ] **9. Wed 23 Dec @ 16:00 AEDT / Thu 24 Dec @ 07:00 AEDT:** Book **Day 6 — The Coast Golf Club** for Thu 31 Dec `07:00–08:00 AM` online via MiClub (**Non-AMEX** Visa/MC card; Pro Shop `(02) 9311 7422`). Budget up to `$230/pp` if international visitor rate applies. **2nd Option / Plan-B:** **St. Michael's GC** (`golfbookings@stmichaelsgolf.com.au`, 8d window `Wed 23 Dec @ 16:00 AEDT`).
-
-### Phase 3: Pre-Trip Preparation
-- [ ] **10. MiClub & Cards Staging:** Verify existing MiClub logins for Long Reef (`8 Sep 2026`) & Stonecutters (`9 Sep 2026`), pre-register on Riverside Oaks / Twin Creeks / The Coast / St. Michael's, and stage 2 active Visa/MC cards.
-- [ ] **11. Vehicle Logistics:** Confirm rental is strictly an **8-seat `2-3-3` bench** layout (prefer **Kia Carnival** / **Hyundai Staria**, NOT 7-seat `2-2-3` captain's chairs; 3rd row folded flat) for 5 pax + 4 golf travel bags + 4 large suitcases + active e-Tag/Linkt.
-- [ ] **12. Sun, Heat & Biosecurity Defense:** Scrub golf shoe soles clean before ICN departure (fast-tracks SYD T1 biosecurity); stock SPF 50+ sunscreen, electrolyte powder packs, ice towels, and wide-brim UV hats.
-- [ ] **13. NSW GC Cart Preparation:** Verify `NSW-53ZR560E` receipt unconditionally guarantees **2 motorized carts** (no medical-certificate restriction); confirm 2 motorized carts in writing on all public holiday bookings.
-
-### Phase 4: Tour Execution (26 Dec 2026 – 02 Jan 2027)
-- [ ] **14. Sat 26 Dec (08:20 AM):** Airport pickup at SYD T1 (OZ601) -> North Ryde Airbnb (`10:15–12:15` rest & lunch) -> Drive via A3/Wakehurst Pkwy to **Long Reef Golf Club** (`14:00–14:15` Ocean Headland Round, ~$125 incl cart).
-- [ ] **15. Mon 28 Dec (05:15 AM):** Mandatory early departure from North Ryde to beat M1 holiday traffic for `07:30 AM` Magenta Shores tee time.
-- [ ] **16. Thu 31 Dec:** Early morning round at The Coast (or St. Michael's) -> Depart Little Bay by **`12:30 PM`** (via M5/M8/A3) to beat NYE Harbour/CBD road closures -> Afternoon rest -> NYE Countdown BBQ party.
-- [ ] **17. Sat 02 Jan (06:45 AM):** Checkout from North Ryde -> 07:30 AM drop-off at SYD T1 for OZ602.
+- **Day 1 (Sat 26 Dec - Boxing Day):** `08:20` SYD T1 pickup (`OZ601`) -> `09:30-10:15` Kia Carnival pickup -> `11:15-12:45` seaside brunch at Collaroy/Dee Why -> `14:00-14:15` **Long Reef GC** -> `~19:20` North Ryde Airbnb check-in & shower -> **`~20:00` Dinner:** **Baulkham Hills Sports Club** (*Mike's Grill*, Won signs in 4 guests, Sat kitchen closes `21:00`, book `(02) 9639 2100`) | *Backup:* **The Governor Hotel** (Macquarie Park, kitchen closes `21:30`).
+- **Day 2 (Sun 27 Dec):** Relaxed morning -> `12:00-12:30` **Stonecutters Ridge GC** -> relaxed local dinner / Airbnb BBQ.
+- **Day 3 (Mon 28 Dec - Observed PH):** **`05:15 AM`** depart North Ryde (grab-and-go breakfast + `~06:00` Wyong M1 Twin Servos coffee/B&E roll) -> `07:30 AM` **Magenta Shores G&CC** -> `12:30` lunch -> `15:15` return to North Ryde -> **`18:30-20:00` Dinner:** **Eastwood** (~10 min - Korean BBQ, Chinese, or Vietnamese) or Airbnb BBQ.
+- **Day 4 (Tue 29 Dec):** `09:15` depart North Ryde -> `11:09 AM` **New South Wales Golf Club** (`NSW-53ZR560E`) -> `16:15-16:45` clubhouse shower -> drive to Bondi (park at Pacific Bondi Car Park) -> **`17:15-19:15` Dinner:** **Bondi Icebergs Club** (*The Bergs Bistro* downstairs balcony, sunset view, passport/ID visitor sign-in, kitchen `20:30`).
+- **Day 5 (Wed 30 Dec):** `07:00-08:00 AM` **Riverside Oaks (Gangurru)** -> `~13:30` return to North Ryde & shower -> **`15:30` North Ryde Metro -> Barangaroo / Circular Quay** for **Sydney CBD & Opera House Tour** (zero CBD parking) -> **`17:30-19:30` Marriott Dinner:** **Pier Dining** *(Pier One Sydney Harbour - normal Wed = full Club Marriott `-20%` + Bonvoy `#376655358`, `0%` PH surcharge, `$476-$580 AUD` net for 5 adults; email `pierdining@autographhotels.com` to confirm in writing)* -> Metro home `~20:15`. *(Backup: **Sydney Common** at Sheraton Grand Hyde Park.)*
+- **Day 6 (Thu 31 Dec - NYE):** `07:00-08:00 AM` **The Coast GC** -> **depart Little Bay by `12:30 PM` sharp** to beat NYE road closures -> afternoon rest -> **NYE Dinner & Countdown at Won Gue Kim's house**.
+- **Day 7 (Fri 01 Jan - New Year's Day):** `08:30-09:00 AM` **Twin Creeks G&CC** -> afternoon packing & farewell dinner.
+- **Day 8 (Sat 02 Jan):** `06:45 AM` checkout -> `07:30 AM` SYD T1 drop-off -> `10:20 AM` **OZ602** to ICN (`19:00` arrival).
 
 ---
 
-## 5. Unexpected Plan-B Contingencies (Quality-First Only)
+## 5. Booking Window Trigger Checklist (Nov-Dec 2026)
 
-| Scenario | Immediate Plan-B Action |
-| :--- | :--- |
-| **1. Online Window Sells Out / No Carts at `07:00 AEDT`** | 1) Call Pro Shop immediately.<br>2) Re-check MiClub at **17:30–19:00 AEDT** same evening (swept member slots).<br>3) Quality-only course fallbacks:<br>• **Day 1 (Long Reef):** **Mona Vale GC** `(02) 9999 4266` (`~$125/pp` incl. cart, Northern Beaches) or **St. Michael's** (`15:00+` PM).<br>• **Day 2 (Stonecutters):** **St. Michael's GC** (`12:00+` PM, opens `19 Dec @ 16:00`) or **Riverside Oaks (Gangurru)**.<br>• **Day 5 (Riverside Oaks):** **Stonecutters Ridge** (Wed all-day social) or **Twin Creeks**.<br>• **Day 6 (The Coast):** **St. Michael's GC** (`~$170–$275/pp`, `golfbookings@stmichaelsgolf.com.au`, opens `23 Dec @ 16:00`).<br>• **Day 7 (Twin Creeks):** **Stonecutters Ridge** or **Riverside Oaks (Gangurru)**. |
-| **2. `OZ601` Flight / SYD T1 Baggage Delay (Sat 26 Dec)** | Call Long Reef Pro Shop `(02) 9982 2943` from SYD T1 to shift tee time to `14:45–15:15`, or **skip the North Ryde bag drop** and drive directly from SYD T1 → Long Reef (saves ~45–60 min). |
-| **3. No Motorized Carts Left on a Public Holiday** | Request **standby/2nd-wave carts** returning from morning rounds, or use **4 push buggies + extra ice water** (if `<30°C`). |
-| **4. M1 Traffic (28 Dec) or NYE Closures (31 Dec)** | Leave North Ryde at **`05:15 AM`** sharp on 28 Dec; leave Little Bay by **`12:30 PM`** on 31 Dec via **M5 / M8 / A3** to bypass CBD/Harbour Bridge closures. |
-| **5. Extreme Heat (`38°C+`), Rainout, or NYE Fatigue (Day 7)** | Respect the 24h cancellation window if a storm hits, or adjust Day 7 (`Twin Creeks`) tee time / pace rather than booking a budget suburban course before `06:45 AM` checkout on 2 Jan. |
-
----
-
-## 6. Outbound Communications & Booking Inquiry Log
-
-| Date (UTC) | Course | To / CC | Subject | Gmail Message / Thread ID | Status |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **2026-11-16** | **Long Reef Golf Club** (Day 1) | To: `golfshop@lrgc.com.au`<br>CC: `office@lrgc.com.au` | `Visitor 4-Ball + 2 Carts Inquiry - Sat 26 Dec 2026 (Afternoon)` | `1a1e1b8fead0bc13` | 📤 Sent (awaiting reply; MiClub login `1a07e4e4527d30c6` active from 8 Sep 2026) |
-| **2026-11-16** | **Stonecutters Ridge GC** (Day 2) | To: `reception@srgc.net.au`<br>CC: `proshop@srgc.net.au` | `Attention Golf Shop: Visitor 4-Ball + 2 Carts Inquiry - Sun 27 Dec 2026` | `1a1e1b91ef265c5d` | 📤 Sent (awaiting reply; MiClub login `1a0837ec89727ced` active from 9 Sep 2026) |
+- [ ] **Sat 28 Nov 2026 @ 00:01 / 06:30-07:00 AEDT:** Book **Day 1 Long Reef GC** online prepaid + 2 carts via MiClub (`(02) 9982 2943`).
+- [ ] **Wed 09 Dec 2026 @ 07:00 AEDT:** Book **Day 5 Riverside Oaks (Gangurru)** online via MiClub (21-day window; secondary check `Wed 16 Dec` `(02) 4560 3200`).
+- [ ] **Sun 13 Dec / Mon 21 Dec @ 09:30 / Tue 22 Dec:** Book **Day 2 Stonecutters Ridge GC** (MiClub social `13 Dec`; comp leftovers `21 Dec @ 09:30`; manual 5-day comp booking `Tue 22 Dec` via Adam Kelleher `golf@srgc.net.au` / `(02) 9627 1816`).
+- [ ] **Fri 18 Dec 2026 @ 05:00 AM AEDT:** Book **Day 7 Twin Creeks G&CC** (`08:30-09:00 AM`, `(02) 9670 8888`).
+- [ ] **Wed 23 Dec @ 16:00 / Thu 24 Dec @ 07:00 AEDT:** Book **Day 6 The Coast GC** (`Thu 24 Dec @ 07:00`, **Non-AMEX**; `(02) 9311 7422`; Backup 1 St. Michael's `Wed 23 Dec @ 16:00` Thu Open Comp).
