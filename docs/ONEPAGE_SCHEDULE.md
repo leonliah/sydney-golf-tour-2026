@@ -22,7 +22,7 @@
 
 | Day / Date | Course (Role) | Tee Time | Est. / 4-Ball | Status | Booking Window, Channel & Evening Plan |
 | :--- | :--- | :---: | :---: | :---: | :--- |
-| **Day 1 (1st)** Sat 26 Dec *(PH)* | **Long Reef GC** *(Ocean Links)* | `14:00–14:15` | `$500` | 🟢 **Opens 28 Nov** | **Sat 28 Nov** (`00:01`/`06:30–07:00 AEDT`): [MiClub](https://longreef.miclub.com.au/guests/bookings/ViewPublicCalendar.msp?booking_resource_id=3000000) (**prepaid** + online carts; `(02) 9982 2943`). **Dinner (`~20:00`):** **Baulkham Hills Sports Club** (*Mike's Grill*, kitchen `21:00`) / Backup: **The Governor Hotel** (`21:30`). |
+| **Day 1** Sat 26 Dec *(PH)* | **Long Reef GC** *(Ocean Links)* | **`13:44`** | **`$580.00`** | 🟢 **PAID** | Ref `ch_3UgW2BHtuHAdZzrE1qMoh5YF` (`28 Nov`, arrive `13:24`, `(02) 9982 2943`). **Dinner (`~20:00`):** **Baulkham Hills Sports Club** (*Mike's Grill*, kitchen `21:00`) / Backup: **The Governor Hotel** (`21:30`). |
 | **Day 1 (Backups)** Sat 26 Dec *(PH)* | **Mona Vale GC** (`15:30+`) / **Wakehurst GC** (`13:00+`) | `14:00–15:30+` | `$418–$500` | 🟠 Backups | Mona Vale Sat social opens **`15:30+`** (`(02) 9999 4266`). Wakehurst social **`13:00+`** online + call `(02) 9948 6126` for 2 carts (`$55/cart`). |
 | **Day 2 (1st)** Sun 27 Dec | **Stonecutters Ridge** *(Norman)* | `12:00–12:30` | `$420–$540` | 🟡 Replied (`19 Nov`) | Adam Kelleher (`golf@srgc.net.au`) confirmed manual `Competition Bookings` **5d out (`Tue 22 Dec`)**; also check MiClub (`13 Dec`) & comp leftovers **Mon 21 Dec @ 09:30** (`(02) 9627 1816`). |
 | **Day 2 (Backup)** Sun 27 Dec | **St. Michael's GC** *(Top 50 Links)* | `12:00+` PM | `$680–$1,100` | 🟠 Opens 19 Dec | **Sat 19 Dec @ 16:00 AEDT** sharp (8d MiClub / `(02) 9326 8000`). |
@@ -38,6 +38,6 @@
 ---
 
 ## 3. Budget Summary & Active Automation
-- **Paid (`🟢`):** `$5,030.38 AUD` | **Remaining 5 Rounds:** `~$2,680.00 AUD` base | **Total Base:** **`$7,710.38 AUD`** (`$1,927.60/pp`, `~₩6.94M`, `-$2,050` saved vs baseline; Intl worst-case `$8,090.38 AUD`).
+- **Paid (`🟢` 3/7):** **`$5,610.38 AUD`** (Long Reef `$580` + Magenta Shores `$920` + NSW GC `$4,110.38`) | **Remaining 4 Rounds:** `~$2,180.00 AUD` base | **Total Base:** **`$7,790.38 AUD`** (`$1,947.60/pp`, `~₩7.01M`, `-$1,970` saved vs baseline; Intl worst-case `$8,170.38 AUD`).
 - **Hermes Automation (`server01`):** `22` one-shot email reminders + `sydney-golf-reply-watcher` (`cbdfee868d77`) active.
 - **Check-In Handout:** [`CLUB_CHECKIN_SHEET.html`](CLUB_CHECKIN_SHEET.html) | **Dining Playbook:** [`marriott_dining_playbook.md`](marriott_dining_playbook.md)

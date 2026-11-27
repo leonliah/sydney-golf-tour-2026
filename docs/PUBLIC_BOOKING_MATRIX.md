@@ -3,7 +3,7 @@
 > **Purpose:** Actionable contingency booking plan for the **4 remaining open rounds (Days 2, 5, 6, 7)** across **7 target clubs** (`28 cases: 1.1 – 4.7`).  
 > **Golden Rule (No Repeat Clubs):** The moment any club is confirmed for a day, **check it off the Club Pool Tracker below** and skip that club on all remaining days.  
 > **Cart Lock Protocol:** Always select/request **2 motorized carts** on the opening trigger day (summer holiday carts sell out faster than tee times).  
-> **Paid & Locked Rounds (Excluded from Pool):** Day 3 Mon 28 Dec = **Magenta Shores** (`07:30`, PAID) | Day 4 Tue 29 Dec = **NSW Golf Club** (`11:09`, PAID) | *(Day 1 Sat 26 Dec = **Long Reef GC**, opens `Sat 28 Nov` → [Book Online (MiClub)](https://longreef.miclub.com.au/guests/bookings/ViewPublicCalendar.msp?booking_resource_id=3000000))*
+> **Paid & Locked Rounds (3 of 7 Confirmed — Excluded from Pool):** Day 1 Sat 26 Dec = **Long Reef GC** (`13:44`, **`$580.00` PAID**, Ref `ch_3UgW2BHtuHAdZzrE1qMoh5YF`) | Day 3 Mon 28 Dec = **Magenta Shores** (`07:30`, **`$920.00` PAID**) | Day 4 Tue 29 Dec = **NSW Golf Club** (`11:09`, **`$4,110.38` PAID**)
 
 ---
 
